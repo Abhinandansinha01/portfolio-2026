@@ -121,6 +121,19 @@ Each project has its own README with detailed setup instructions:
 
 ---
 
+## 🔒 License
+
+**© 2026 Abhinandan Sinha. All Rights Reserved.**
+
+This project is licensed under a strict proprietary license.
+You may not use, copy, modify, distribute, or sell this code without express written permission from the author.
+
+For permission requests, please contact [abhinandansinha239@gmail.com](mailto:abhinandansinha239@gmail.com).
+
+[View Full License](./LICENSE)
+
+---
+
 ## 📫 Connect with Me
 
 - **LinkedIn**: [Abhinandan Sinha](https://linkedin.com/in/abhinandansinha01)
