@@ -1,6 +1,6 @@
 # Premium Cloud & Full Stack Portfolio 2026 🚀🔥
 
-[![GitHub Pages](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=github)](https://abhinandansinha01.github.io/portfolio-2026/portfolio/index.html)
+[![GitHub Pages](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=github)](https://abhinandansinha01.github.io/portfolio/)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
@@ -31,7 +31,7 @@ An ultra-modern, interactive professional dashboard featuring:
 - **Embedded Digital Resume**: A theme-synced, print-ready digital CV.
 - **SEO Optimized**: Complete meta tags for social sharing and search engines.
 
-🔗 **[Visit Live Portfolio](https://abhinandansinha01.github.io/portfolio-2026/portfolio/index.html)**
+🔗 **[Visit Live Portfolio](https://abhinandansinha01.github.io/portfolio/)**
 
 ---
 
@@ -99,11 +99,7 @@ This repository contains 4 distinct architectural and code-heavy projects, each 
 
 # Clone the repository
 
-git clone <https://github.com/Abhinandansinha01/portfolio-2026.git>
-cd portfolio-2026
-
-# Open portfolio
-
+git clone <https://github.com/Abhinandansinha01/portfolio.git>
 cd portfolio
 
 # Open index.html in your browser
@@ -137,7 +133,7 @@ For permission requests, please contact [abhinandansinha239@gmail.com](mailto:ab
 ## 📫 Connect with Me
 
 - **LinkedIn**: [Abhinandan Sinha](https://linkedin.com/in/abhinandansinha01)
-- **Portfolio**: [abhinandansinha.com](https://abhinandansinha01.github.io/portfolio-2026/portfolio/index.html)
+- **Portfolio**: [abhinandansinha.com](https://abhinandansinha01.github.io/portfolio/)
 - **Email**: [abhinandansinha239@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=abhinandansinha239@gmail.com)
 - **GitHub**: [@Abhinandansinha01](https://github.com/Abhinandansinha01)
 

@@ -84,7 +84,7 @@ blue-green-deployment/
 
 1. **Clone the repository**
    \`\`\`bash
-   git clone <https://github.com/Abhinandansinha01/portfolio-2026.git>
+   git clone <https://github.com/Abhinandansinha01/portfolio.git>
    cd blue-green-deployment
    \`\`\`
 
@@ -284,7 +284,7 @@ This project is open source and available under the MIT License.
 
 **Abhinandan Sinha**
 
-- Portfolio: [abhinandansinha.com](https://abhinandansinha01.github.io/portfolio-2026/portfolio/index.html)
+- Portfolio: [abhinandansinha.com](https://abhinandansinha01.github.io/portfolio/)
 - LinkedIn: [abhinandansinha01](https://linkedin.com/in/abhinandansinha01)
 - GitHub: [@Abhinandansinha01](https://github.com/Abhinandansinha01)
 
