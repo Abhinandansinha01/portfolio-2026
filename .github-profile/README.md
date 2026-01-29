@@ -81,6 +81,23 @@ I am a **Cloud Engineer** and **Full Stack Developer** who thrives on complexity
 
 ---
 
+## 🎖️ **Certifications**
+
+- 🎓 **Azure Administrator Associate (AZ-104)** -- Microsoft (May 2025)
+- 🎓 **IoT (Internet of Things)** -- NPTEL (Feb 2025)
+- 🎓 **Alpha (DSA with Java)** -- Apna College (Jul 2023)
+
+---
+
+## 🌟 **Key Achievements**
+
+- 🏆 **Hackathon Winner:** Secured 1st place in University Hackathon for building an AI-based Disaster Recovery system on AWS.
+- ⚡ **Performance Impact:** Optimized a legacy Node.js API to reduce response time by **35%** through efficient caching.
+- 📖 **Open Source:** Contributed documentation improvements to the Terraform AWS Provider community.
+- 🧩 **Competitive Programming:** Solved **300+** Algorithmic problems across LeetCode and GeeksForGeeks (Top 15% globally).
+
+---
+
 ## 📊 **GitHub Stats**
 
 <div align="center">

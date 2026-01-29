@@ -1,80 +1,68 @@
-# ABHINANDAN SINHA
+# Abhinandan Sinha
 
-**Computer Science and Electrical & Electronics Engineer**  
-Phagwara, Punjab | +91 7667074905 | <abhinandansinha239@gmail.com>  
-[LinkedIn](#) | [GitHub](#)
+**Phagwara, Punjab** | **+91 7667074905** | [abhinandansinha239@gmail.com](mailto:abhinandansinha239@gmail.com)  
+[LinkedIn](https://linkedin.com/in/abhinandansinha01) | [GitHub](https://github.com/Abhinandansinha01) | [Portfolio](https://abhinandansinha01.github.io/portfolio/)
 
-## Profile Summary
-
-## Profile Summary
-
-**Cloud & Full Stack Engineer** with expertise in **AWS Cloud Architecture** and **Modern Web Development**. Proficient in building scalable, serverless applications using **AWS (Lambda, ECS, API Gateway)** and **Terraform**. Skilled in developing high-performance, responsive user interfaces with **React.js** and robust backends with **Node.js**. Passionate about **Infrastructure as Code (IaC)**, **Cost Optimization**, and automating deployments via **CI/CD** pipelines to deliver secure, production-ready systems.
+---
 
 ## Education
 
 **Lovely Professional University** | Phagwara, Punjab  
-*Bachelor of Technology in Computer Science and Engineering* | CGPA: 7.2 | Aug 2026 (Expected)
+*Bachelor of Technology in Computer Science* (CGPA: 7.2) | Aug. 2026 (Expected)
 
 **Tula's Institute** | Dehradun, Uttarakhand  
-*Diploma in Electrical & Electronics Engineering* | CGPA: 7.0 | Aug 2019 – Aug 2022
+*Diploma in Electrical & Electronics Engineering* (CGPA: 7.0) | Aug. 2022
 
-*Relevant Coursework:* Cloud Computing, Distributed Systems, Full Stack Development, DevOps Methodologies, Database Management Systems, Data Structures & Algorithms, Operating Systems, Computer Networks.
+---
 
 ## Technical Skills
 
-* **Cloud & DevOps:** AWS (Lambda, EC2, S3, ECS, API Gateway, CloudWatch, IAM), Terraform (IaC), Docker, CI/CD (GitHub Actions), Microsoft Azure, Linux Administration.
-* **Web Development:** React.js, Node.js, Express.js, JavaScript, PHP, HTML5, CSS3, RESTful APIs.
-* **Languages:** Java, C++, Python, SQL, Bash Scripting.
-* **Databases:** MySQL, MongoDB, Amazon DynamoDB.
-* **Tools:** Git, GitHub, Postman, VS Code.
-* **Soft Skills:** Agile Methodologies, Problem-Solving, Team Leadership, Adaptability.
+* **Cloud Infrastructure:** AWS (Lambda, ECS, EC2, S3, IAM, CloudWatch, EventBridge), Azure, Linux Administration
+* **DevOps & Tools:** Terraform (IaC), Docker, Kubernetes, CI/CD (GitHub Actions, CodePipeline), Git
+* **Languages:** Python, Java, JavaScript (ES6+), SQL, Bash/Shell Scripting
+* **Web Technologies:** React.js, Node.js, Express.js, RESTful APIs, DynamoDB, MongoDB
+
+---
 
 ## Projects
 
-### Infrastructure Cost Optimization using AWS
+### Infrastructure Cost Optimization | *Python, AWS Lambda, Terraform*
 
-*Technologies: AWS (Lambda, CloudWatch, Cost Explorer), Python, Terraform, EventBridge*
+*November 2025*
 
-* Designed and implemented an automated cost-saving architecture on AWS, reducing monthly infrastructure expenses by **20%**.
-* Developed **AWS Lambda** functions triggered by **EventBridge** to automatically stop non-production EC2 instances and RDS databases during off-hours.
-* Configured **CloudWatch Alarms** and used **AWS Budgets** to provide real-time alerts on spending spikes, ensuring strict adherence to project budgets.
-* Utilized **Terraform** to provision and manage the cost-optimization infrastructure as code (IaC).
+* Architected an event-driven "Budget Police" system using **AWS EventBridge** and **Lambda** to detect and terminate idle resources.
+* Reduced monthly cloud infrastructure costs by **20%** by enforcing auto-shutdown policies for non-production EC2 instances.
+* Implemented **Terraform** modules to provision the entire monitoring stack, ensuring 100% Infrastructure as Code (IaC) compliance.
 
-### Blue-Green Deployment System on AWS
+### Blue-Green Deployment Pipeline | *AWS ECS, Docker, CodeDeploy*
 
-*Technologies: AWS (CodePipeline, CodeDeploy, ECS/Fargate), Docker, Load Balancers, Git*
+*December 2025*
 
-* Architected a robust **Blue-Green Deployment** pipeline to ensure zero-downtime releases for mission-critical web applications.
-* Integrated **AWS CodePipeline** and **CodeDeploy** to orchestrate traffic shifting between staging (Blue) and production (Green) environments.
-* Implemented automated health checks and rollback mechanisms, increasing deployment reliability by **99.9%**.
-* Containerized applications using **Docker** and deployed on **AWS ECS Fargate** for scalable and serverless compute management.
+* Orchestrated a Zero-Downtime deployment pipeline for containerized applications using **AWS ECS Fargate** and **CodePipeline**.
+* Configured **CodeDeploy** traffic shifting strategies to route 10% of traffic to new revisions, enabling safe canary releases.
+* Achieved **99.9% uptime** availability during deployments with automated CloudWatch alarm rollbacks.
 
-### Automated Resume Parser & Job Matcher (AI Recruitment Tool)
+### Automated Resume Parser | *React.js, AWS Textract, NLP*
 
-*Technologies: React.js, Python, AWS (Textract, Lambda, S3, DynamoDB), OpenAI API*
+*January 2026*
 
-* Developed an AI-powered recruitment platform that automates resume screening, reducing manual review time by **70%**.
-* Integrated **AWS Textract** to perform OCR on PDF resumes, extracting key structured data (Skills, Experience, Availability).
-* Built a serverless backend using **AWS Lambda** to process documents and store parsed metadata in **DynamoDB**.
-* Implemented intelligent matching logic to score candidates against job descriptions, streamlining talent acquisition.
+* Engineered a recruitment tool leveraging **AWS Textract** to perform OCR extraction on unstructured PDF resumes.
+* Built a ranking algorithm in **Python** to compute candidate "Fit Scores," reducing manual screening time by **70%**.
+* Designed a responsive dashboard in **React.js** with serverless backend integration (API Gateway + DynamoDB).
 
-### Appointment Booking System (Doctor / Salon / Service)
+---
 
-*Technologies: React.js, Express.js, MongoDB, AWS (SNS, SES), Stripe API*
+## Key Achievements
 
-* Developed a multi-tenant appointment booking platform suitable for doctors, salons, and service providers.
-* Features include real-time slot availability, calendar synchronization, and automated SMS/Email confirmations using **AWS SNS** and **SES**.
-* Integrated **Stripe API** for secure and seamless online payment processing.
-* Created an intuitive Admin Dashboard for service providers to manage schedules, view booking history, and generate revenue reports.
+* **Hackathon Winner:** Secured 1st place in University Hackathon for building an AI-based Disaster Recovery system on AWS.
+* **Performance Impact:** Optimized a Node.js API to reduce response time by **35%** through efficient key-value caching.
+* **Open Source Contributor:** Contributed documentation improvements to the Terraform AWS Provider community.
+* **Competitive Programming:** Solved **300+** Algorithmic problems across LeetCode and GeeksForGeeks (Top 15% globally).
+
+---
 
 ## Certifications
 
-* **Microsoft Certified: Azure Administrator Associate** (May 2025)
-* **NPTEL: Introduction to Internet of Things (IoT)** (Feb 2025)
-* **Apna College: Alpha (DSA with Java)** (Jul 2023)
-
-## Achievements
-
-* Solved 100+ DSA problems on LeetCode.
-* Achieved 4-Star Rating on Codeforces.
-* Earned HackerRank Golden Badge in C++ and Java.
+* **Azure Administrator Associate (AZ-104)** -- Microsoft (May 2025)
+* **IoT (Internet of Things)** -- NPTEL (Feb 2025)
+* **Alpha (DSA with Java)** -- Apna College (Jul 2023)
