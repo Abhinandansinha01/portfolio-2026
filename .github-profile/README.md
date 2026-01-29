@@ -1,7 +1,7 @@
-# Hi there, I'm Abhinandan Sinha 👋
+# Hi there, I'm Abhinandan Sinha! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Cloud+Engineer+%26+Architect;Full+Stack+Developer;AWS+%7C+Azure+%7C+DevOps;Cost+Optimization+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Cloud+Engineer+%26+Architect;Full+Stack+Developer;AWS+%7C+Azure+%7C+DevOps;Cost+Optimization+Expert" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -13,6 +13,13 @@
 ---
 
 ## 🚀 About Me
+
+I'm a **Cloud Engineer & Full Stack Developer** passionate about building **resilient, scalable AWS infrastructure** and modern web applications. I specialize in:
+
+- ☁️ **Cloud Architecture**: Designing cost-effective, highly available systems on AWS & Azure
+- 💰 **Cost Optimization**: Reduced infrastructure costs by 20% through automated resource management
+- 🔄 **DevOps & CI/CD**: Zero-downtime deployments with blue-green strategies
+- 🌐 **Full Stack Development**: Building serverless applications with React, Node.js, and modern frameworks
 
 I'm a **Cloud Engineer & Full Stack Developer** passionate about building **resilient, scalable AWS infrastructure** and modern web applications. I specialize in:
 
@@ -66,6 +73,13 @@ I'm a **Cloud Engineer & Full Stack Developer** passionate about building **resi
 ---
 
 ## 🎯 Featured Projects
+
+### 🚀 [2026 Engineering Portfolio](https://abhinandansinha01.github.io/portfolio/)
+
+**A high-performance, interactive dashboard** featuring a "Digital Fire" theme, 3D micro-interactions, and a theme-synced digital resume.
+
+- 🔧 **Tech**: HTML5, CSS3 (Glassmorphism), JavaScript (Particles API), AWS Hosting
+- 💡 **Impact**: 100% Performance score with fully responsive immersive design
 
 ### ☁️ [Infrastructure Cost Optimization](https://github.com/Abhinandansinha01/portfolio/tree/main/infrastructure-cost-optimization)
 
@@ -143,5 +157,5 @@ I'm always open to interesting conversations and collaboration opportunities!
 </div>
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/Abhinandansinha01">Abhinandansinha01</a> - Building the future, one commit at a time</i>
+  <i>⭐️ From <a href="https://github.com/Abhinandansinha01">Abhinandansinha01</a> - "Building the future, one cloud resource at a time."</i>
 </div>
